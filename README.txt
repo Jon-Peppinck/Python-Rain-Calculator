@@ -19,7 +19,7 @@ Software Required: Python3 (3.6.3 + Recommended)
 ------------
 Installation
 ------------
-Download rainCalculator file from Github
+Download rainCalculator.py file from Github
 (or alternate link)
 
 ----------------------
